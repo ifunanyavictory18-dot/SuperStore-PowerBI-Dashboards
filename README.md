@@ -7,7 +7,7 @@ KPIs: Total Sales, Total Profit, Total Orders, Profit Margin
 Features: Monthly trend line, Sum of Sales by region, Profit by Product Category bar chart, Sum of sales by country pie chart
 ![Overview dashboard](SuperStore_Dashboard1_Overview.png)
 
-3. Product dashboard - 'SuperStore_Dashboard2_product&customer_analysis.pbix'
+3. Product dashboard - [SuperStore_Dashboard2_product&customer_analysis.pbix](SuperStore_Dashboard2_Product & customer Analysis.pbix)
 KPIs: Top Sub-category, Largest Segment
 Features: Sales by sub-category, Profit by sun-category bar chart, Sales vs Profit vs quantity scatter chart, Sales distribution by Segment donut chart
 ![Product dashboard](SuperStore_Dashboard2_Product.png)
@@ -15,7 +15,7 @@ Features: Sales by sub-category, Profit by sun-category bar chart, Sales vs Prof
 
 
 
-5. Sales dashboard -'SuperStore_dashboard3_sales&profit_dashboard.pbix'
+5. Sales dashboard -[SuperStore_dashboard3_sales&profit_dashboard.pbix](SuperStore_Dashboard3_Sales & Profit_Dashboard.pbix)
 KPIs: Total Sales, total Profit, Profit Margin, Total Customers
 Features: Sum of Profit by Region bar chart, Sum of sales by Category and Segment column chart, Top 10 Customers by Sales and Profit table
 ![Sales dashboard](SuperStore_Dashboard3_Sales.png)   
