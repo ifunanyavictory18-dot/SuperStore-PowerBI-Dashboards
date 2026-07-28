@@ -18,7 +18,7 @@ Features: Sales by sub-category, Profit by sun-category bar chart, Sales vs Prof
 5. Sales dashboard -'SuperStore_dashboard3_sales&profit_dashboard.pbix'
 KPIs: Total Sales, total Profit, Profit Margin, Total Customers
 Features: Sum of Profit by Region bar chart, Sum of sales by Category and Segment column chart, Top 10 Customers by Sales and Profit table
-![Sales dashboard](Superstore_Dashboard3_Sales.png)   
+![Sales dashboard](SuperStore_Dashboard3_Sales.png)   
 
 Tools & Skills Used
 -Power Bi Desktop - Data modeling, DAX measures, Visualization
