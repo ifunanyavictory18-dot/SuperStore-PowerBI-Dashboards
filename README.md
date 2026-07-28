@@ -10,7 +10,7 @@ Features: Monthly trend line, Sum of Sales by region, Profit by Product Category
 3. Product dashboard - 'SuperStore_Dashboard2_product&customer_analysis.pbix'
 KPIs: Top Sub-category, Largest Segment
 Features: Sales by sub-category, Profit by sun-category bar chart, Sales vs Profit vs quantity scatter chart, Sales distribution by Segment donut chart
-![Product dashboard](SuperStore_Dashboard2_Product & Customer Analysis.png)
+![Product dashboard](SuperStore_Dashboard2_Product.png)
 
 
 
