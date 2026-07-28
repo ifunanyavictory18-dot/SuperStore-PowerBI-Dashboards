@@ -5,7 +5,7 @@ Focus: Sales Analysis, Product Performance and Profit tracking.
 1. Overview dashboard - ''
 KPIs: Total Sales, Total Profit, Total Orders, Profit Margin
 Features: Monthly trend line, Sum of Sales by region, Profit by Product Category bar chart, Sum of sales by country pie chart
-[Overview dashboard](SuperStore_Dashboard1_Overview.png)
+![Overview dashboard](SuperStore_Dashboard1_Overview.png)
 
 3. Product dashboard - 'SuperStore_Dashboard2_product&customer_analysis.pbix'
 KPIs: Top Sub-category, Largest Segment
@@ -18,7 +18,7 @@ Features: Sales by sub-category, Profit by sun-category bar chart, Sales vs Prof
 5. Sales dashboard -'SuperStore_dashboard3_sales&profit_dashboard.pbix'
 KPIs: Total Sales, total Profit, Profit Margin, Total Customers
 Features: Sum of Profit by Region bar chart, Sum of sales by Category and Segment column chart, Top 10 Customers by Sales and Profit table
-   
+![Sales dashboard](Superstore_Dashboard3_Sales.png)   
 
 Tools & Skills Used
 -Power Bi Desktop - Data modeling, DAX measures, Visualization
