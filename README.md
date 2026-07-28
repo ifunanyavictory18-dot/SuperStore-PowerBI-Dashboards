@@ -2,7 +2,7 @@
 3 Interactive dashboards built in Power BI Desktop using the SuperStore dataset.
 Focus: Sales Analysis, Product Performance and Profit tracking.
 
-1. Overview dashboard - ''
+1. Overview dashboard - [SuperStore_Dashboard1_Overview.pbix](SuperStore_Dashboard1_Overview.pbix)
 KPIs: Total Sales, Total Profit, Total Orders, Profit Margin
 Features: Monthly trend line, Sum of Sales by region, Profit by Product Category bar chart, Sum of sales by country pie chart
 ![Overview dashboard](SuperStore_Dashboard1_Overview.png)
