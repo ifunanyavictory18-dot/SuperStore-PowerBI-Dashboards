@@ -28,12 +28,13 @@ Recommendations:
 3. Inventory Planning: Increase stock before December peak to capture seasonal demand.
 4. Customer Targeting: Focus marketing on segments buying Technology to maximize profit per order.
 
+
 1. Overview dashboard - [SuperStore_Dashboard1_Overview.pbix](SuperStore_Dashboard1_Overview.pbix)
 KPIs: Total Sales, Total Profit, Total Orders, Profit Margin
 Features: Monthly trend line, Sum of Sales by region, Profit by Product Category bar chart, Sum of sales by country pie chart
 ![Overview dashboard](SuperStore_Dashboard1_Overview.png)
 
-3. Product dashboard - [SuperStore_Dashboard2_Product.pbix](SuperStore_Dashboard2_Product.pbix)
+2. Product dashboard - [SuperStore_Dashboard2_Product.pbix](SuperStore_Dashboard2_Product.pbix)
 KPIs: Top Sub-category, Largest Segment
 Features: Sales by sub-category, Profit by sun-category bar chart, Sales vs Profit vs quantity scatter chart, Sales distribution by Segment donut chart
 ![Product dashboard](SuperStore_Dashboard2_Product.png)
@@ -41,7 +42,7 @@ Features: Sales by sub-category, Profit by sun-category bar chart, Sales vs Prof
 
 
 
-5. Sales dashboard -[SuperStore_dashboard3_Sales.pbix](SuperStore_Dashboard3_Sales.pbix)
+3. Sales dashboard -[SuperStore_dashboard3_Sales.pbix](SuperStore_Dashboard3_Sales.pbix)
 KPIs: Total Sales, total Profit, Profit Margin, Total Customers
 Features: Sum of Profit by Region bar chart, Sum of sales by Category and Segment column chart, Top 10 Customers by Sales and Profit table
 ![Sales dashboard](SuperStore_Dashboard3_Sales.png)   
